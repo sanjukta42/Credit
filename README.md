@@ -1,2 +1,0 @@
-# Credit
-Credit risk analysis
